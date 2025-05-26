@@ -13,7 +13,7 @@
   <!-- All Icons in Single Grid -->
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(60px, 1fr)); width: 100%; gap: 15px; justify-items: center;">
     <!-- Frontend Section -->
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-right=10px"/></a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-right=10px !important"/></a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" margin-right="12px"/></a> <!-- Next.js -->
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" margin-right="12px"/></a> <!-- React Native -->
     <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" margin-right="12px"/></a> <!-- Redux -->
