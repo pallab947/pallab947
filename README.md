@@ -9,7 +9,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=pallab947&color=red)
 
 <h3 align="left">🛠️ Languages and Tools</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-between; width: 100%; padding: 10px 0;">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-between; width: 100%; padding: 10px 10px;">
   <!-- All Icons in Single Grid -->
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(60px, 1fr)); width: 100%; gap: 15px; justify-items: center;">
     <!-- Frontend Section -->
