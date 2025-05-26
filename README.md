@@ -23,7 +23,7 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" tabindex="-1">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
   </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer" tabindex="-1">
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer" tabindex="-1" box-shadow="none"; border="none">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" tabindex="-1">
