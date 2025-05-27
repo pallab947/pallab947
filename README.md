@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi 👋, I'm MD. IMRAN NAZIR PALLAB</h2>
 <h4 align="center">Programmer | Web Developer | UI/UX Designer </h4>
-<h5 align="center">Student of Hablu Programmer</h5>
+
 
 <div align="center">
 
