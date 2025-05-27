@@ -10,148 +10,126 @@
 
 <h3 align="left">🛠️ Languages and Tools</h3>
 
-  <!-- Styled Tech Stack Icons -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); gap: 20px; text-align: center; justify-items: center; align-items: center;">
+  
+<!-- All Icons in Single Grid with Styled Background -->
+<div style="
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  padding: 40px 20px;
+  border-radius: 20px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+  position: relative;
+  overflow: hidden;
+">
 
-  <!-- Icon Template Example -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <div style="background: #f0f0f0; border-radius: 50%; padding: 15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-    </div>
-    <span style="margin-top: 8px; font-size: 12px;">React</span>
+  <!-- Prism Background Effect -->
+  <div style="
+    position: absolute;
+    top: -20%;
+    right: -25%;
+    width: 300px;
+    height: 200%;
+    background: linear-gradient(135deg, rgba(255, 0, 150, 0.4), rgba(0, 204, 255, 0.3));
+    transform: rotate(45deg);
+    z-index: 0;
+    filter: blur(100px);
+  "></div>
+
+  <!-- Icon Grid -->
+  <div style="
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
+    width: 100%;
+    gap: 20px;
+    justify-items: center;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+  ">
+    <!-- Frontend Icons -->
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+    </a>
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+      <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+    </a>
+    <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+    </a>
+    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+
+    <!-- Backend & Databases -->
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    </a>
+
+    <!-- DevOps & Others -->
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    </a>
+    <a href="https://graphql.org" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+    </a>
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    </a>
   </div>
-
-  <!-- Repeat for all icons -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <div style="background: #f0f0f0; border-radius: 50%; padding: 15px;">
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-    </div>
-    <span style="margin-top: 8px; font-size: 12px;">Next.js</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <div style="background: #f0f0f0; border-radius: 50%; padding: 15px;">
-      <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-    </div>
-    <span style="margin-top: 8px; font-size: 12px;">React Native</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <div style="background: #f0f0f0; border-radius: 50%; padding: 15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-    </div>
-    <span style="margin-top: 8px; font-size: 12px;">Redux</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <div style="background: #f0f0f0; border-radius: 50%; padding: 15px;">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
-    </div>
-    <span style="margin-top: 8px; font-size: 12px;">Tailwind</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <div style="background: #f0f0f0; border-radius: 50%; padding: 15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-    </div>
-    <span style="margin-top: 8px; font-size: 12px;">Sass</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <div style="background: #f0f0f0; border-radius: 50%; padding: 15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    </div>
-    <span style="margin-top: 8px; font-size: 12px;">JavaScript</span>
-  </div>
-
-  <!-- Backend -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <div style="background: #f0f0f0; border-radius: 50%; padding: 15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-    </div>
-    <span style="margin-top: 8px; font-size: 12px;">Node.js</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <div style="background: #f0f0f0; border-radius: 50%; padding: 15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-    </div>
-    <span style="margin-top: 8px; font-size: 12px;">Express.js</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <div style="background: #f0f0f0; border-radius: 50%; padding: 15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-    </div>
-    <span style="margin-top: 8px; font-size: 12px;">MongoDB</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <div style="background: #f0f0f0; border-radius: 50%; padding: 15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-    </div>
-    <span style="margin-top: 8px; font-size: 12px;">PostgreSQL</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <div style="background: #f0f0f0; border-radius: 50%; padding: 15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    </div>
-    <span style="margin-top: 8px; font-size: 12px;">MySQL</span>
-  </div>
-
-  <!-- Others -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <div style="background: #f0f0f0; border-radius: 50%; padding: 15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-    </div>
-    <span style="margin-top: 8px; font-size: 12px;">AWS</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <div style="background: #f0f0f0; border-radius: 50%; padding: 15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-    </div>
-    <span style="margin-top: 8px; font-size: 12px;">TypeScript</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <div style="background: #f0f0f0; border-radius: 50%; padding: 15px;">
-      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
-    </div>
-    <span style="margin-top: 8px; font-size: 12px;">GraphQL</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <div style="background: #f0f0f0; border-radius: 50%; padding: 15px;">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-    </div>
-    <span style="margin-top: 8px; font-size: 12px;">Git</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <div style="background: #f0f0f0; border-radius: 50%; padding: 15px;">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-    </div>
-    <span style="margin-top: 8px; font-size: 12px;">Figma</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <div style="background: #f0f0f0; border-radius: 50%; padding: 15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-    </div>
-    <span style="margin-top: 8px; font-size: 12px;">Photoshop</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <div style="background: #f0f0f0; border-radius: 50%; padding: 15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-    </div>
-    <span style="margin-top: 8px; font-size: 12px;">Docker</span>
-  </div>
-
 </div>
+  
+    
+  
+    
+      
 
+  
+      
+    
+
+  
+    
+    
+    
+      
+
+  
+    
+       
+  
+    
   
   
     
