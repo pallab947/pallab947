@@ -1,7 +1,7 @@
 ![I am pallab947](https://github.com/pallab947/pallab947/blob/main/code.png)
 
 <h2 align="center">Hi 👋, I'm MD. IMRAN NAZIR PALLAB</h2>
-<h4 align="center">Programmer | Web Developer | UI/UX Designer </h4>
+<h4 align="center">Programmer | Web Developer | Digital Marketer </h4>
 
 
 <div align="center">
