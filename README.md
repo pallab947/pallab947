@@ -35,12 +35,15 @@
 ![NoSQL](https://img.shields.io/badge/NoSQL-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Tools and Others
+### Tools and Others  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SEM](https://img.shields.io/badge/SEM-FF5722?style=for-the-badge&logo=googleads&logoColor=white)
+![SMM](https://img.shields.io/badge/SMM-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+
     
     
 <br/>
