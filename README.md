@@ -1,7 +1,7 @@
 ![I am pallab947](https://github.com/pallab947/pallab947/blob/main/code.png)
 
 <h2 align="center">Hi 👋, I'm MD. IMRAN NAZIR PALLAB</h2>
-<h4 align="center">Programmer | Web Developer | Digital Marketer </h4>
+<h4 align="center">Programmer | Web Developer | UI/UX Designer </h4>
 
 
 <div align="center">
@@ -41,8 +41,6 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SEM](https://img.shields.io/badge/SEM-FF5722?style=for-the-badge&logo=googleads&logoColor=white)
-![SMM](https://img.shields.io/badge/SMM-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 
     
     
